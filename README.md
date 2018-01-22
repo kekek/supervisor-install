@@ -2,9 +2,9 @@
 #### file list
 .
 ├── README.md
-├── supervisor-event-listener.ini 	// 运行时配置
-├── supervisord-listener		// 实际运行程序
-└── supervisord-listener.ini     	// supervisord listen 配置 
+├── supervisor-event-listener.ini
+├── supervisord-listener	
+└── supervisord-listener.ini
 
 # supervisor-event-listener
 Supervisor事件通知, 支持邮件, Slack, WebHook
